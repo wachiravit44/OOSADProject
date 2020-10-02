@@ -28,7 +28,7 @@ class UI{
 int main(){
      //mainmenu
      UI obj_ui;
- 
+    //cout << "Hello ";
      
      return 0;
 }//main
