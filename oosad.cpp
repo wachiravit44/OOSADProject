@@ -9,6 +9,7 @@ class Member{
         Telephone number 
         Thai Id Card */ 
       public: 
+      string name;
 };
 class MemberCard{
        private:
