@@ -37,7 +37,7 @@ class UI{
             //check is menu admin in the method PrintAdmin() in UI class
             if(menu == 4){
             //Renew Card
-
+               cout << "Hello";   
             }//if
         }
 };
