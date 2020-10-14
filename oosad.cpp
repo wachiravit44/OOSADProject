@@ -74,7 +74,7 @@ int main(){
                             cout << str << endl;  
                             cin.clear(); 
                             cin.ignore(100, '\n'); 
-                       }
+                       }//catch
                        obj_ui.CheckMenuAdmin(menu_admin);
                    }while( menu_admin !=7);      
                }  //if Correct loggin
