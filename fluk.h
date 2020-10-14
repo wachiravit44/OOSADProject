@@ -29,7 +29,7 @@ public:
         cout << "2. Back " << endl;
     }//print renewcard
     void PrintInfo(){
-        
+        cout << "Hello Fluk";
     }
 };
 bool isloggin(string user_name,string pass){
